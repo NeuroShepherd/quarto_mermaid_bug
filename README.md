@@ -10,3 +10,4 @@ quarto preview
 
 Or take a look at the pre-rendered site: https://neuroshepherd.github.io/quarto_mermaid_bug/
 
+Rendered with Quarto version: 1.8.24
