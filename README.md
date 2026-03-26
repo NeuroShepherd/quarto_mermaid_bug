@@ -8,5 +8,5 @@ cd quarto_mermaid_bug
 quarto preview
 ```
 
-Or take a look at the pre-rendered site:
+Or take a look at the pre-rendered site: https://neuroshepherd.github.io/quarto_mermaid_bug/
 
