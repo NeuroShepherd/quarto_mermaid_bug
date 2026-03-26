@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "quarto_bug"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: mermaid_broken.qmd
+        text: Mermaid Broken
+      - href: mermaid_works.qmd
+        text: Mermaid Working
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

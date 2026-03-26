@@ -1,0 +1,6 @@
+---
+title: "quarto_bug"
+---
+
+
+Mermaid diagrams do not render if, when in a {.tabset-panel}, they are not placed in the first tab. See [Mermaid Broken](mermaid_broken.qmd) for an example of this. If the Mermaid diagram is placed in the first tab, it renders correctly. See [Mermaid Working](mermaid_works.qmd) for an example of this.
