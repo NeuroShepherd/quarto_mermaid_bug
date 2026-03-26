@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto_bug",
+    "section": "",
+    "text": "Mermaid diagrams do not render if, when in a {.tabset-panel}, they are not placed in the first tab. See Mermaid Broken for an example of this. If the Mermaid diagram is placed in the first tab, it renders correctly. See Mermaid Working for an example of this."
+  },
+  {
+    "objectID": "mermaid_broken.html",
+    "href": "mermaid_broken.html",
+    "title": "About",
+    "section": "",
+    "text": "First headerSecond header\n\n\nhi\n\n\nhi\n\n\n\n\n\nflowchart TB\n  A[\"Manuscript Draft (Preprint v0.0)\"] --&gt;|community feedback| B[\"Submitted Manuscript (Preprint v1.0)\"]\n  B --&gt;|journal peer review| C[\"Revised Manuscript (Preprint v2.0)\"]\n  C --&gt;|journal acceptance| D[\"Postprint (Preprint v3.0)\"]\n    D --&gt;|journal copy-editing and formatting| E[\"Published Article\"]"
+  },
+  {
+    "objectID": "mermaid_works.html",
+    "href": "mermaid_works.html",
+    "title": "About",
+    "section": "",
+    "text": "First headerSecond header\n\n\n\n\n\n\n\nflowchart TB\n  A[\"Manuscript Draft (Preprint v0.0)\"] --&gt;|community feedback| B[\"Submitted Manuscript (Preprint v1.0)\"]\n  B --&gt;|journal peer review| C[\"Revised Manuscript (Preprint v2.0)\"]\n  C --&gt;|journal acceptance| D[\"Postprint (Preprint v3.0)\"]\n    D --&gt;|journal copy-editing and formatting| E[\"Published Article\"]\n\n\n\n\n\n\n\n\nhi"
+  }
+]
